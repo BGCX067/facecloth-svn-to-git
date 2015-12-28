@@ -1,0 +1,15 @@
+#summary Download instructions for all versions of faceCloth.
+#labels Featured,Phase-Deploy
+
+=== Package Download ===
+Only the original version of faceCloth is available as a pre-compiled package.
+|| Mac OS X || http://facecloth.googlecode.com/files/faceCloth.macosx.zip ||
+|| Windows || http://facecloth.googlecode.com/files/faceCloth.windows.zip ||
+|| Linux || http://facecloth.googlecode.com/files/faceCloth.linux.zip ||
+
+=== Source Download ===
+Open up a command line and type in {{{svn checkout <url>}}} with one of the following URLs.
+|| root || http://facecloth.googlecode.com/svn ||
+|| faceCloth || http://facecloth.googlecode.com/svn/trunk ||
+|| faceCloth_Live || http://facecloth.googlecode.com/svn/branches/live ||
+|| faceCloth_MultiTouch || http://facecloth.googlecode.com/svn/branches/multitouch ||
